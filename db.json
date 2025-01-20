@@ -1,0 +1,52 @@
+{
+  "listings": [
+    {
+      "id": 1,
+      "description": "heater",
+      "image": "./images/heater.jpg",
+      "location": "BROOKLYN"
+    },
+    {
+      "id": 2,
+      "description": "2019 Toyota Tacoma grill",
+      "image": "./images/toyota-grill.jpg",
+      "location": "Williamsburg"
+    },
+    {
+      "id": 3,
+      "description": "Free Braun 3735 Electric Toothbrush charger",
+      "image": "./images/toothbrush-charger.jpg",
+      "location": "Williamsburg"
+    },
+    {
+      "id": 4,
+      "description": "FREE Hundreds of DVD/CD Cases - Different Sizes and Colors",
+      "image": "./images/dvd-cases.jpg",
+      "location": "Prospect Heights"
+    },
+    {
+      "id": 5,
+      "description": "wood",
+      "image": "./images/wood.jpg",
+      "location": "Greenpoint"
+    },
+    {
+      "description": "desc",
+      "image": "img",
+      "location": "loc",
+      "id": 6
+    },
+    {
+      "description": "asdasd",
+      "image": "123123",
+      "location": "zxczxcxc",
+      "id": 7
+    },
+    {
+      "description": "asdasd",
+      "image": "123123",
+      "location": "zxczxcxc",
+      "id": 8
+    }
+  ]
+}
