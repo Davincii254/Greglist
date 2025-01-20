@@ -2,51 +2,93 @@
   "listings": [
     {
       "id": 1,
-      "description": "heater",
-      "image": "./images/heater.jpg",
-      "location": "BROOKLYN"
+      "description": "2022 Audi A4 Front Bumper",
+      "image": "https://i.ebayimg.com/images/g/PVIAAOSwRjxmn~3I/s-l1200.jpg",
+      "location": "Nairobi"
     },
     {
       "id": 2,
-      "description": "2019 Toyota Tacoma grill",
-      "image": "./images/toyota-grill.jpg",
-      "location": "Williamsburg"
+      "description": "2019 BMW M3 Rear Spoiler",
+      "image": "https://karbelcarbon.com/cdn/shop/files/karbel-carbon-dry-carbon-fiber-rear-spoiler-for-bmw-m3-g80-3-series-g20-2019-on-855120_grande.jpg?v=1713574399",
+      "location": "Nairobi"
     },
     {
       "id": 3,
-      "description": "Free Braun 3735 Electric Toothbrush charger",
-      "image": "./images/toothbrush-charger.jpg",
-      "location": "Williamsburg"
+      "description": "2023 Mercedes-Benz E-Class Headlights",
+      "image": "https://www.carscoops.com/wp-content/uploads/2023/04/2024-Mercedes-E-Class-Teaser-2-1024x576.jpg",
+      "location": "Kisumu"
     },
     {
       "id": 4,
-      "description": "FREE Hundreds of DVD/CD Cases - Different Sizes and Colors",
-      "image": "./images/dvd-cases.jpg",
-      "location": "Prospect Heights"
+      "description": "2021 Porsche 911 Turbo S Wheels",
+      "image": "https://i.ytimg.com/vi/CZUoz46YYOM/maxresdefault.jpg",
+      "location": "Meru"
     },
     {
       "id": 5,
-      "description": "wood",
-      "image": "./images/wood.jpg",
-      "location": "Greenpoint"
+      "description": "2020 Volkswagen Golf GTI Grill",
+      "image": "https://lit-logos.com/cdn/shop/products/mk7saturday-4.jpg?v=1723725491",
+      "location": "Mombasa"
     },
     {
-      "description": "desc",
-      "image": "img",
-      "location": "loc",
-      "id": 6
+      "id": 6,
+      "description": "2023 Audi Q5 Side Mirrors",
+      "image": "https://i.ebayimg.com/images/g/y~IAAOSwGVBk15zX/s-l1200.jpg",
+      "location": "Eldoret"
     },
     {
-      "description": "asdasd",
-      "image": "123123",
-      "location": "zxczxcxc",
-      "id": 7
+      "id": 7,
+      "description": "2018 BMW 3 Series Tail Lights",
+      "image": "https://goldenwrenchsupply.com/cdn/shop/products/F80LCI_ProductImage2_1200x1200.jpg?v=1630362982",
+      "location": "Nakuru"
     },
     {
-      "description": "asdasd",
-      "image": "123123",
-      "location": "zxczxcxc",
-      "id": 8
+      "id": 8,
+      "description": "2022 Mercedes-Benz C-Class Engine Cover",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ5ggCTVte0oP_LV1kSRyRt0yQKMj1InrIoA&s",
+      "location": "Turkana"
+    },
+    {
+      "id": 9,
+      "description": "2021 Porsche Cayenne Spoiler",
+      "image": "https://i.ytimg.com/vi/uCRITdNRuAk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAx5HiUJOJ9bWoALdj257ojAK2H5A",
+      "location": "West Pokot"
+    },
+    {
+      "id": 10,
+      "description": "2020 Volkswagen Passat Headlights",
+      "image": "https://www.idrivesocal.com/wp-content/uploads/2020/01/2020-Volkswagen-Passat-LED-projector-headlight.jpg",
+      "location": "Eldoret"
+    },
+    {
+      "id": 11,
+      "description": "2023 Audi A3 Sunroof",
+      "image": "https://pictures.dealer.com/a/audistpauldraoa/1103/d3babf991fbbd168eb9cfa82c3cfd873x.jpg?impolicy=downsize_bkpt&w=410",
+      "location": "Mombasa"
+    },
+    {
+      "id": 12,
+      "description": "2019 BMW X5 Rims",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCvJluhlYZQijVRBtCP_neK7Qf46m3Xm9vqA&s",
+      "location": "Nairobi"
+    },
+    {
+      "id": 13,
+      "description": "2022 Mercedes-Benz S-Class Grille",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCXVP8qCejdxRUXcYwWQyTyy3qyDAT-mrTcg&s",
+      "location": "Nairobi"
+    },
+    {
+      "id": 14,
+      "description": "2021 Porsche Macan Exhaust Tips",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg1G0tsoEIXsmQToPAybBqQwBTroDNrvod6w&s",
+      "location": "KItale"
+    },
+    {
+      "id": 15,
+      "description": "2020 Volkswagen Jetta Rear Bumper",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDpn7Oqa0S5l1Oa_oupJjUZTzvOsMCBmw3g&s",
+      "location": "Meru"
     }
   ]
 }
